@@ -1,0 +1,22 @@
+Requisitos de los interesados hasta la fecha.
+
+Requisitos del sistema:
+El sistema deberá registrar una sección (funcional).
+El sistema deberá manipular el estado de la sección (funcional).
+El sistema deberá mostrar las secciones registradas (funcional).
+El sistema deberá manejar filtros de búsqueda para las secciones (funcional). 
+El sistema deberá manejar un login para usuarios (funcional).
+El sistema deberá registrar usuarios (funcional).
+El sistema deberá manejar tipos de usuario (funcional).
+El sistema deberá registrar apoderados (funcional).
+El sistema deberá registrar estudiantes (funcional).
+El sistema deberá manejar módulos (funcional).
+El sistema deberá registrar pagos (funcional).
+El sistema deberá manejar tipos de pago (funcional).
+El sistema deberá calcular la hora de entrada, salida y tiempo en la sesión (LOG) (funcional).
+El sistema deberá manejar filtros de búsqueda para usuarios en el log (funcional).
+El sistema deberá registrar las matrículas (funcional).
+El sistema deberá calcular la mora que tiene un pago (funcional).
+El sistema deberá mostrar el cronograma de pagos de un estudiante (funcional).
+El sistema deberá consultar estudiantes para mostrar su cronograma (funcional).
+El sistema deberá consultar secciones (funcional).
